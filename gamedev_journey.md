@@ -1,3 +1,5 @@
+# Music credits for [My 11 Year Game Development Journey](https://www.youtube.com/watch?v=68eM2CDjZ3E)
+
 [father p - red](https://father-p.bandcamp.com/track/red)
 
 [tenby - In The Winter Garden](https://tenby.bandcamp.com/track/in-the-winter-garden)
